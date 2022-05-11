@@ -1,13 +1,13 @@
 [app]
 
 # (str) Title of your application
-title = Lottie Demo
+title = TrackIt
 
 # (str) Package name
-package.name = lottiedemo
+package.name = trackit
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = dev.tshirtman
+package.domain = com.codecube.trackit
 
 # (str) Source code where the main.py live
 source.dir = src/
@@ -85,7 +85,7 @@ fullscreen = 0
 # see https://lottiefiles.com/ for examples and https://airbnb.design/lottie/
 # for general documentation.
 # Lottie files can be created using various tools, like Adobe After Effect or Synfig.
-android.presplash_lottie = "42369-weather-wind.json"
+android.presplash_lottie = 
 
 # (list) Permissions
 #android.permissions = INTERNET
