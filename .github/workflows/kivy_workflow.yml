@@ -37,7 +37,7 @@ jobs:
 
         id: buildozer
         with:
-          command: buildozer android debug
+          command: buildozer android debug && buildozer android logcat 
           buildozer_version: master
 
       - name: Upload artifacts
