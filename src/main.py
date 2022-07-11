@@ -9,7 +9,7 @@ from plyer import gps
 from kivy.clock import Clock,mainthread
 from kivy.animation import Animation
 import time
-import requests
+#import requests
 #the url value-useful for requests.
 url="http://trackitdev.herokuapp.com"
 # Create both screens. Please note the root.manager.current: this is how
