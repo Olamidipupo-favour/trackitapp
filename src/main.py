@@ -11,7 +11,7 @@ from kivy.animation import Animation
 import time
 import requests
 #the url value-useful for requests.
-url="http://trackitdev.herokuapp.com"
+url="http://trackit1.herokuapp.com"
 # Create both screens. Please note the root.manager.current: this is how
 # you can control the ScreenManager from kv. Each screen has by default a
 # property manager that gives you the instance of the ScreenManager used.
